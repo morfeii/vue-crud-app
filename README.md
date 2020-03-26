@@ -1,5 +1,7 @@
 # vue-app-crud2
 
+-[DEMO LINK](https://vuejs-crud-app.herokuapp.com/)
+
 ## Project setup
 ```
 npm install
