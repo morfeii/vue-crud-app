@@ -1,6 +1,6 @@
 # VUE CRUD APP
 
-- git [DEMO LINK](https://vuejs-crud-app.herokuapp.com/)
+- [DEMO LINK](https://vuejs-crud-app.herokuapp.com/)
 
 ## Project setup
 ```
