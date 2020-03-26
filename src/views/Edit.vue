@@ -1,6 +1,7 @@
 <template>
   <v-container>
     <v-btn
+      class="mr-4"
       color="primary"
       @click="statusForm = 'edit'"
     >
