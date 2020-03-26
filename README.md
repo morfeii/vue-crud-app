@@ -1,6 +1,6 @@
-# vue-app-crud2
+# VUE CRUD APP
 
--[DEMO LINK](https://vuejs-crud-app.herokuapp.com/)
+- git [DEMO LINK](https://vuejs-crud-app.herokuapp.com/)
 
 ## Project setup
 ```
